@@ -1,5 +1,5 @@
 {
-  "file" : "../ir-devices/players/dvd.json",
+  "file" : "../players/dvd.json",
   "commands" : {
     "on" : {
       "type" : 901,

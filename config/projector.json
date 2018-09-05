@@ -1,7 +1,7 @@
 {
-  "file" : "../ir-devices/displays/jvc-rs1.json",
+  "file" : "../displays/jvc-rs1.json",
   "commands" : {
-    "on" : { 
+    "on" : {
       "type" : 901,
       "cooldown" : 30000
     },
